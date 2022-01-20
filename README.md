@@ -1,2 +1,2 @@
 # Hi! I'm Barni!
-<img src="https://badgen.net/badge/icon/github?icon=github&color=cyan&label"/><img src="https://badgen.net/badge/icon/javascript?icon=terminal&label"/>
+<img src="https://badgen.net/badge/icon/github?icon=github&color=cyan&label"/> <img src="https://badgen.net/badge/icon/javascript?icon=terminal&label"/>
